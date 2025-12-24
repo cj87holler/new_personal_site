@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "C.J. Holler"
-  text: "A VitePress Site"
+  text: "Digital Product Leader"
   tagline: My great project tagline
   actions:
     - theme: brand
