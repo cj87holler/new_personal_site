@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "C.J. Holler"
   text: "Digital Product Leader"
-  tagline: My great project tagline
+  tagline: I help teams build intuitive digital experiences using data-driven design and agile delivery.
   actions:
     - theme: brand
       text: Markdown Examples
@@ -15,11 +15,11 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Strategic
+    details: An outcome-focused leader 
+  - title: Execution
+    details: Known for pragmatic and reliable delivery.
+  - title: Resilient
+    details: A curious, growth-minded professional who thrives in ambiguity
 ---
 
